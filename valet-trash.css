@@ -1,0 +1,29 @@
+.navbar {
+    width: 50%;
+    background-color: salmon;
+    margin: .6250em 0 0 0;
+    padding: 0;
+    position: absolute;
+    top: 1em;
+    right: 0;/*float: right;*/
+}
+
+
+.list-group{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-right: 1px solid white;
+    height: 100%;
+}
+
+.list-group1{
+    float: left;
+    color: #ffffff;
+    padding-right: 8px;
+    border-right: 1px solid white;
+}
+#contact{
+    border-right: none;
+}
